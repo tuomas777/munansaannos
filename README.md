@@ -4,7 +4,7 @@
 * Python 3.6+
 
 ## Setup
-```python
+```
 pip install -r requirements.txt
 export FLASK_APP=sananmuunnos.py
 ```
