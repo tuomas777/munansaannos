@@ -1,5 +1,8 @@
 # sananmuunnos
 
+## Prerequisites
+* Python 3.6+
+
 ## Setup
 ```python
 pip install -r requirements.txt
